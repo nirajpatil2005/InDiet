@@ -8,11 +8,9 @@
 
 **An intelligent system that crafts personalized meal plans and workout routines using ML clustering and nutritional science.**
 
-<div align="center">
  ![Image](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34)
   <br>
-  <em>▲ Personalized dashboard showing meal plan and fitness recommendations ▲</em>
-</div>
+ 
 
 ## ✨ Key Features
 
