@@ -44,7 +44,7 @@
 
 | Home Page | Health Metrics |
 |-----------|----------------|
-| ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/41d0ed7c-e8a1-449a-aee5-2767fa91723e) |
+| ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/f7696228-f910-4712-92ee-926d2e500bfb) |
 
 <div align="center">
   <img src="https://via.placeholder.com/400x250.png?text=3D+Nutrition+Space" width="45%">
