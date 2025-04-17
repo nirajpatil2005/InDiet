@@ -1,0 +1,96 @@
+Exercise Name,Calories Burned (30 mins),Muscle Group,Equipment,Difficulty Level,Sets,Reps,Rest Period (seconds)
+Running (6 mph),372,Cardio,Treadmill,Intermediate,1,30,0
+Cycling (12-14 mph),316,Cardio,Stationary Bike,Intermediate,1,30,0
+Swimming (moderate),372,Cardio,None,Intermediate,1,30,0
+Jump Rope,372,Cardio,Jump Rope,Intermediate,1,30,0
+Push-ups,167,Chest,Bodyweight,Beginner,3,15,60
+Squats,167,Legs,Bodyweight,Beginner,3,12,60
+Bench Press,167,Chest,Barbell,Intermediate,4,10,90
+Deadlift,167,Back,Barbell,Advanced,4,8,120
+Plank,167,Core,Bodyweight,Beginner,3,60,30
+Burpees,316,Full Body,Bodyweight,Intermediate,3,10,60
+Mountain Climbers,223,Core,Bodyweight,Intermediate,3,20,60
+Lunges,167,Legs,Bodyweight,Beginner,3,12,60
+Pull-ups,167,Back,Pull-up Bar,Intermediate,3,8,90
+Dumbbell Rows,167,Back,Dumbbells,Intermediate,3,10,90
+Bicep Curls,111,Arms,Dumbbells,Beginner,3,12,60
+Tricep Dips,111,Arms,Bodyweight,Beginner,3,12,60
+Russian Twists,111,Core,Bodyweight,Beginner,3,20,30
+Leg Press,167,Legs,Leg Press Machine,Intermediate,4,10,90
+Calf Raises,111,Legs,Bodyweight,Beginner,3,15,60
+Lat Pulldown,167,Back,Lat Pulldown Machine,Intermediate,3,10,90
+Overhead Press,167,Shoulders,Barbell,Intermediate,3,10,90
+Lateral Raises,111,Shoulders,Dumbbells,Beginner,3,12,60
+Front Raises,111,Shoulders,Dumbbells,Beginner,3,12,60
+Face Pulls,111,Shoulders,Cable Machine,Intermediate,3,12,60
+Chest Fly,111,Chest,Dumbbells,Intermediate,3,12,60
+Incline Bench Press,167,Chest,Barbell,Intermediate,4,10,90
+Decline Bench Press,167,Chest,Barbell,Intermediate,4,10,90
+Barbell Squats,167,Legs,Barbell,Intermediate,4,10,90
+Dumbbell Squats,167,Legs,Dumbbells,Intermediate,3,12,60
+Leg Curls,111,Legs,Leg Curl Machine,Intermediate,3,12,60
+Leg Extensions,111,Legs,Leg Extension Machine,Intermediate,3,12,60
+Hack Squats,167,Legs,Hack Squat Machine,Intermediate,4,10,90
+Step-ups,167,Legs,Bodyweight,Intermediate,3,12,60
+Box Jumps,223,Legs,Box,Intermediate,3,10,60
+Wall Sit,111,Legs,Bodyweight,Beginner,3,60,30
+Glute Bridges,111,Legs,Bodyweight,Beginner,3,15,60
+Hip Thrusts,167,Legs,Barbell,Intermediate,4,10,90
+Cable Kickbacks,111,Legs,Cable Machine,Intermediate,3,12,60
+Side Lunges,167,Legs,Bodyweight,Intermediate,3,12,60
+Bulgarian Split Squats,167,Legs,Dumbbells,Intermediate,3,12,60
+Kettlebell Swings,223,Full Body,Kettlebell,Intermediate,3,15,60
+Battle Ropes,316,Full Body,Battle Ropes,Intermediate,3,20,60
+Medicine Ball Slams,223,Core,Medicine Ball,Intermediate,3,15,60
+Medicine Ball Throws,223,Core,Medicine Ball,Intermediate,3,15,60
+Plyometric Push-ups,223,Chest,Bodyweight,Advanced,3,10,60
+Clapping Push-ups,223,Chest,Bodyweight,Advanced,3,10,60
+Diamond Push-ups,167,Chest,Bodyweight,Intermediate,3,12,60
+Wide Push-ups,167,Chest,Bodyweight,Intermediate,3,12,60
+Incline Push-ups,167,Chest,Bodyweight,Beginner,3,15,60
+Decline Push-ups,167,Chest,Bodyweight,Intermediate,3,12,60
+Pistol Squats,223,Legs,Bodyweight,Advanced,3,8,90
+Single-leg Deadlift,167,Legs,Dumbbells,Intermediate,3,12,60
+Good Mornings,167,Back,Barbell,Intermediate,3,12,60
+Barbell Rows,167,Back,Barbell,Intermediate,4,10,90
+T-bar Rows,167,Back,T-bar Machine,Intermediate,4,10,90
+Seated Cable Rows,167,Back,Cable Machine,Intermediate,3,12,60
+Bent-over Rows,167,Back,Barbell,Intermediate,4,10,90
+Inverted Rows,167,Back,Bodyweight,Intermediate,3,12,60
+Chin-ups,167,Back,Pull-up Bar,Intermediate,3,8,90
+Hammer Curls,111,Arms,Dumbbells,Beginner,3,12,60
+Concentration Curls,111,Arms,Dumbbells,Beginner,3,12,60
+Preacher Curls,111,Arms,Barbell,Beginner,3,12,60
+Skull Crushers,111,Arms,Barbell,Intermediate,3,12,60
+Overhead Tricep Extension,111,Arms,Dumbbells,Intermediate,3,12,60
+Cable Tricep Pushdown,111,Arms,Cable Machine,Intermediate,3,12,60
+Close-grip Bench Press,167,Chest,Barbell,Intermediate,4,10,90
+Dips,167,Chest,Bodyweight,Intermediate,3,12,60
+Chest Dips,167,Chest,Bodyweight,Intermediate,3,12,60
+Incline Dumbbell Press,167,Chest,Dumbbells,Intermediate,4,10,90
+Decline Dumbbell Press,167,Chest,Dumbbells,Intermediate,4,10,90
+Cable Chest Press,167,Chest,Cable Machine,Intermediate,3,12,60
+Arnold Press,167,Shoulders,Dumbbells,Intermediate,3,12,60
+Upright Rows,167,Shoulders,Barbell,Intermediate,3,12,60
+Shrugs,111,Shoulders,Dumbbells,Beginner,3,15,60
+Farmer's Walk,223,Full Body,Dumbbells,Intermediate,3,60,30
+Suitcase Carry,223,Full Body,Dumbbells,Intermediate,3,60,30
+Turkish Get-up,223,Full Body,Kettlebell,Advanced,3,5,90
+Windshield Wipers,111,Core,Bodyweight,Intermediate,3,12,60
+Hanging Leg Raises,111,Core,Pull-up Bar,Intermediate,3,12,60
+Toes-to-bar,111,Core,Pull-up Bar,Advanced,3,10,60
+Ab Wheel Rollouts,111,Core,Ab Wheel,Intermediate,3,12,60
+Cable Woodchoppers,111,Core,Cable Machine,Intermediate,3,12,60
+Side Plank,111,Core,Bodyweight,Beginner,3,60,30
+Plank with Arm Lift,111,Core,Bodyweight,Intermediate,3,12,60
+Plank with Leg Lift,111,Core,Bodyweight,Intermediate,3,12,60
+Plank to Push-up,167,Core,Bodyweight,Intermediate,3,12,60
+Bear Crawl,223,Core,Bodyweight,Intermediate,3,20,60
+Crab Walk,223,Core,Bodyweight,Intermediate,3,20,60
+Superman Hold,111,Core,Bodyweight,Beginner,3,60,30
+Bird Dog,111,Core,Bodyweight,Beginner,3,12,60
+Dead Bug,111,Core,Bodyweight,Beginner,3,12,60
+Flutter Kicks,111,Core,Bodyweight,Beginner,3,20,30
+Scissor Kicks,111,Core,Bodyweight,Beginner,3,20,30
+Bicycle Crunches,111,Core,Bodyweight,Beginner,3,20,30
+Reverse Crunches,111,Core,Bodyweight,Beginner,3,20,30
