@@ -77,3 +77,7 @@
    ```bash
    git clone https://github.com/nirajpatil2005/InDiet
    cd InDiet
+## 🎥 Demo Video
+
+[Click to watch demo](https://github.com/user/repo/assets/video-file.mp4)
+
