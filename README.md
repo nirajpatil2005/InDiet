@@ -76,6 +76,3 @@ cd InDiet
 pip install -r requirements.txt
 
 ---
-
-
----
