@@ -9,7 +9,7 @@
 **An intelligent system that crafts personalized meal plans and workout routines using ML clustering and nutritional science.**
 
 <div align="center">
-  <img src="[https://via.placeholder.com/800x400.png?text=NutriAI+Interface+Dashboard](https://github.com/user-attachments/assets/d337ce1d-7327-4f97-9335-eb60f7ff4f3a)" alt="Dashboard Preview" width="80%">
+ ![Image](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34)
   <br>
   <em>▲ Personalized dashboard showing meal plan and fitness recommendations ▲</em>
 </div>
