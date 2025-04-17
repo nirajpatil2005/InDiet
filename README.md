@@ -54,7 +54,7 @@
 
 | Nutrition Space | Meal Plan | Workout Plan |
 |------------------|-----------|--------------|
-| ![Nutrition Space](https://via.placeholder.com/400x250.png?text=3D+Nutrition+Clusters) | ![Meal Plan](https://via.placeholder.com/400x250.png?text=Meal+Plan+Table) | ![Workout Plan](https://via.placeholder.com/400x250.png?text=Weekly+Workout) |
+| ![Nutrition Space](https://github.com/user-attachments/assets/5a2dd8a8-7b92-457c-b934-9c58b4f44a5c) | ![Meal Plan](https://github.com/user-attachments/assets/5eff5096-e955-43a2-aef3-6c9ac44414c3) | ![Workout Plan](https://github.com/user-attachments/assets/9bb9e839-bc80-4c6c-8a1e-367b73a8bbf8) |
 
 > 💡 Replace the placeholder links above with your actual images once you've taken screenshots of the personalized output!
 
@@ -70,12 +70,4 @@
 | **Data**       | CSV (Nutritional datasets), User input |
 
 ---
-
-## 🎥 Demo Video
-
-[▶️ Watch Demo](https://github.com/yourusername/yourrepo/assets/xxxxxxxx/Com.mp4)
-
----
-
-## 📂 Project Structure
 
