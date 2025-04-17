@@ -1,46 +1,79 @@
-# InDiet
-
-# 🍏 NutriAI: Personalized Diet & Fitness Planner
+# 🍏 InDiet: Personalized Diet & Fitness Planner
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![Scikit-Learn](https://img.shields.io/badge/ML-Scikit_Learn-orange?logo=scikit-learn)](https://scikit-learn.org/)
 
-**An intelligent system that crafts personalized meal plans and workout routines using ML clustering and nutritional science.**
+**InDiet** is an intelligent health assistant that crafts **personalized meal plans and workout routines** using machine learning and nutritional science. Built with accessibility and simplicity in mind, InDiet empowers users to take control of their fitness journey with data-driven decisions and customizable plans.
 
- ![Image](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34)
-  <br>
- ![Image](https://github.com/user-attachments/assets/41d0ed7c-e8a1-449a-aee5-2767fa91723e)
+---
 
 ## ✨ Key Features
 
 - 🍽️ **AI-Powered Meal Plans**  
-  K-Means clustering on nutritional profiles with PCA visualization
+  Get meal plans based on your body type and goals using **K-Means clustering** and **nutritional profiling**.
+
 - 🏋️ **Smart Workout Scheduler**  
-  Structured weekly plans targeting muscle groups
+  Weekly workout splits based on your body profile, ensuring optimal training of muscle groups.
+
 - 📊 **Health Metrics Analysis**  
-  BMI/BMR calculation with goal-based calorie estimation
+  Real-time calculation of **BMI**, **BMR**, **calorie needs**, and **macronutrient distribution**.
+
 - 🌐 **Multilingual Support**  
-  English, Hindi, and Marathi interfaces
-- 📥 **Exportable Plans**  
-  Download meal plans as CSV
+  Available in **English**, **Hindi**, and **Marathi** to improve accessibility and usability.
+
+- 📥 **Exportable Meal Plans**  
+  Download your meal schedule as a **CSV** file for offline use or sharing.
+
+---
+
+## 🧠 How It Works
+
+1. **User Input**  
+   Users input their age, weight, height, activity level, and fitness goals.
+
+2. **ML-Based Clustering**  
+   The system uses **K-Means** clustering on food nutritional data, reducing dimensions via **PCA** for optimal grouping.
+
+3. **Personalized Outputs**  
+   Based on the cluster assigned, the app generates meal and workout recommendations tailored to the user's body needs.
+
+---
+
+## 🖼️ Resulted Output Screenshots
+
+| Home Page | Health Metrics |
+|-----------|----------------|
+| ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/41d0ed7c-e8a1-449a-aee5-2767fa91723e) |
 
 <div align="center">
   <img src="https://via.placeholder.com/400x250.png?text=3D+Nutrition+Space" width="45%">
   <img src="https://via.placeholder.com/400x250.png?text=Workout+Plan" width="45%">
 </div>
 
+---
+
 ## 🛠️ Tech Stack
 
-| Component       | Technologies Used |
-|----------------|------------------|
-| **Backend**    | Python, Pandas, Scikit-Learn |
-| **Frontend**   | Streamlit, Plotly |
-| **Clustering** | K-Means, PCA, NearestNeighbors |
+| Component       | Technologies Used                     |
+|----------------|----------------------------------------|
+| **Backend**    | Python, Pandas, Scikit-Learn           |
+| **Frontend**   | Streamlit, Plotly                      |
+| **Clustering** | K-Means, PCA, Nearest Neighbors        |
+| **Data**       | CSV (Nutritional datasets), User input |
 
-## 🚀 Quick Start
+---
 
-1. **Clone the repo**
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Python 3.8+
+- pip
+
+### 🛠️ Installation
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nutriai.git
-   cd nutriai
+   git clone https://github.com/nirajpatil2005/InDiet
+   cd InDiet
