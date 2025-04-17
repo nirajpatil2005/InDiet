@@ -46,7 +46,7 @@
 
 | Home Page | Health Metrics |
 |-----------|----------------|
-| ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/f7696228-f910-4712-92ee-926d2e500bfb) |
+| ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/008b465e-5547-4fac-b205-7f6b92c262a7) |
 
 ---
 
