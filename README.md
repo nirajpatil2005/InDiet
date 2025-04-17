@@ -56,18 +56,21 @@
 |------------------|-----------|--------------|
 | ![Nutrition Space](https://github.com/user-attachments/assets/5a2dd8a8-7b92-457c-b934-9c58b4f44a5c) | ![Meal Plan](https://github.com/user-attachments/assets/5eff5096-e955-43a2-aef3-6c9ac44414c3) | ![Workout Plan](https://github.com/user-attachments/assets/9bb9e839-bc80-4c6c-8a1e-367b73a8bbf8) |
 
-> 💡 Replace the placeholder links above with your actual images once you've taken screenshots of the personalized output!
-
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Getting Started
 
-| Component       | Technologies Used                     |
-|----------------|----------------------------------------|
-| **Backend**    | Python, Pandas, Scikit-Learn           |
-| **Frontend**   | Streamlit, Plotly                      |
-| **Clustering** | K-Means, PCA, Nearest Neighbors        |
-| **Data**       | CSV (Nutritional datasets), User input |
+### 🔧 Requirements
 
----
+- Python 3.8+
+- pip
 
+### 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/nirajpatil2005/InDiet
+cd InDiet
+
+# Install dependencies
+pip install -r requirements.txt
