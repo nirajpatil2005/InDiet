@@ -10,7 +10,7 @@
 
  ![Image](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34)
   <br>
- 
+ ![Image](https://github.com/user-attachments/assets/41d0ed7c-e8a1-449a-aee5-2767fa91723e)
 
 ## ✨ Key Features
 
