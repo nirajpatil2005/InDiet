@@ -9,8 +9,7 @@
 **An intelligent system that crafts personalized meal plans and workout routines using ML clustering and nutritional science.**
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=NutriAI+Interface+Dashboard" alt="Dashboard Preview" width="80%">![image](https://github.com/user-attachments/assets/d337ce1d-7327-4f97-9335-eb60f7ff4f3a)
-
+  <img src="[https://via.placeholder.com/800x400.png?text=NutriAI+Interface+Dashboard](https://github.com/user-attachments/assets/d337ce1d-7327-4f97-9335-eb60f7ff4f3a)" alt="Dashboard Preview" width="80%">
   <br>
   <em>▲ Personalized dashboard showing meal plan and fitness recommendations ▲</em>
 </div>
@@ -40,7 +39,6 @@
 | **Backend**    | Python, Pandas, Scikit-Learn |
 | **Frontend**   | Streamlit, Plotly |
 | **Clustering** | K-Means, PCA, NearestNeighbors |
-| **Deployment** | Docker, Streamlit Cloud |
 
 ## 🚀 Quick Start
 
