@@ -40,13 +40,23 @@
 
 ---
 
-## 🖼️ Resulted Output Screenshots
+## 🖼️ Output Screenshots
+
+### 🔹 Before Input: Welcome & Health Metrics Page
 
 | Home Page | Health Metrics |
 |-----------|----------------|
 | ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/f7696228-f910-4712-92ee-926d2e500bfb) |
 
+---
 
+### 🔹 After Input: Personalized Plan Output
+
+| Nutrition Space | Meal Plan | Workout Plan |
+|------------------|-----------|--------------|
+| ![Nutrition Space](https://via.placeholder.com/400x250.png?text=3D+Nutrition+Clusters) | ![Meal Plan](https://via.placeholder.com/400x250.png?text=Meal+Plan+Table) | ![Workout Plan](https://via.placeholder.com/400x250.png?text=Weekly+Workout) |
+
+> 💡 Replace the placeholder links above with your actual images once you've taken screenshots of the personalized output!
 
 ---
 
@@ -61,4 +71,11 @@
 
 ---
 
+## 🎥 Demo Video
+
+[▶️ Watch Demo](https://github.com/yourusername/yourrepo/assets/xxxxxxxx/Com.mp4)
+
+---
+
+## 📂 Project Structure
 
