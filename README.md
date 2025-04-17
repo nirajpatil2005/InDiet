@@ -46,10 +46,7 @@
 |-----------|----------------|
 | ![Home](https://github.com/user-attachments/assets/0f9dda62-0959-4b48-b956-bbe95b379d34) | ![Metrics](https://github.com/user-attachments/assets/f7696228-f910-4712-92ee-926d2e500bfb) |
 
-<div align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=3D+Nutrition+Space" width="45%">
-  <img src="https://via.placeholder.com/400x250.png?text=Workout+Plan" width="45%">
-</div>
+
 
 ---
 
@@ -63,19 +60,5 @@
 | **Data**       | CSV (Nutritional datasets), User input |
 
 ---
-
-## 🚀 Getting Started
-
-### 🔧 Prerequisites
-
-- Python 3.8+
-- pip
-
-### 🛠️ Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nirajpatil2005/InDiet
-   cd InDiet
 
 
